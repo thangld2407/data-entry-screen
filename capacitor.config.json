@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "data-entry-screen",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
